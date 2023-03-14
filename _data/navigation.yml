@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "ABOUT ME"
-    url: /About_me.md/
+  - title: "Chinese"
+    url: /Chinese.md/
   - title: "Projects"
     url: /Project.md/
   - title: "Blog"
