@@ -43,7 +43,7 @@ A graduate student majoring in information management with 1+ years as a cyberse
 *2018.09-2019.06*
 
 
-# Work Experience
+# WORK EXPERIENCE
 **Research Assistant (Project-Based)** \| **NTPU** 
 
 
@@ -72,10 +72,20 @@ Detailed project description refer to [Research Project](/Project.md/)
 - Contact customers
 - Document translation (English and Chinese)
 
-# Skills
-- [x] Programming : Python, My SQL, HTML/CSS, R, C
+# SKILLS
+➤  Programming : Python, My SQL, HTML/CSS, R, C 
 
-# Languages
+➤  Python: Numpy, Selenium, Tensorflow, Pytorch, Pandas,
+
+➤  AI, ML/DL, NLP
+
+➤  K8s, Dockers
+
+➤ ShellScript
+
+➤ AWS Service: EC2, VPC, Sagemaker, RDS, Lambda etc.
+
+# LANGUAGES
 - [x] Chinese &nbsp; &nbsp; &nbsp;&nbsp;✦✦✦✦✦ 
 - [x] English &emsp; &nbsp;&nbsp;✦✦✦✦✦
 - [x] Spanish &emsp;&nbsp;&nbsp;✦✦✦
